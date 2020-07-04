@@ -1,0 +1,22 @@
+Dependencies for Project 'finalProject', Target 'Target 1': (DO NOT MODIFY !)
+F (.\gpio.c)(0x5C0E8C92)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I E:\kiel\ARM\RV31\INC-I E:\kiel\ARM\CMSIS\Include-I E:\kiel\ARM\Inc\TI\TM4C123-DTM4C1233H6PM-o .\gpio.o --omf_browse .\gpio.crf --depend .\gpio.d)
+I (Header.h)(0x5B0E149B)
+I (E:\kiel\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h)(0x532C1E48)
+I (E:\kiel\ARM\CMSIS\Include\core_cm4.h)(0x532C21F2)
+I (E:\kiel\ARM\ARMCC\include\stdint.h)(0x51C7EF84)
+I (E:\kiel\ARM\CMSIS\Include\core_cmInstr.h)(0x532C21F2)
+I (E:\kiel\ARM\CMSIS\Include\core_cmFunc.h)(0x532C21F2)
+I (E:\kiel\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C21F2)
+I (E:\kiel\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x532C1E48)
+F (.\main.c)(0x5C13F00F)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I E:\kiel\ARM\RV31\INC-I E:\kiel\ARM\CMSIS\Include-I E:\kiel\ARM\Inc\TI\TM4C123-DTM4C1233H6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (Header.h)(0x5B0E149B)
+I (E:\kiel\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h)(0x532C1E48)
+I (E:\kiel\ARM\CMSIS\Include\core_cm4.h)(0x532C21F2)
+I (E:\kiel\ARM\ARMCC\include\stdint.h)(0x51C7EF84)
+I (E:\kiel\ARM\CMSIS\Include\core_cmInstr.h)(0x532C21F2)
+I (E:\kiel\ARM\CMSIS\Include\core_cmFunc.h)(0x532C21F2)
+I (E:\kiel\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C21F2)
+I (E:\kiel\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x532C1E48)
+F (.\gpio.h)(0x593BE908)()
+F (.\startup.s)(0x593BE909)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I E:\kiel\ARM\RV31\INC-I E:\kiel\ARM\CMSIS\Include-I E:\kiel\ARM\Inc\TI\TM4C123--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\Header.h)(0x5B0E149B)()

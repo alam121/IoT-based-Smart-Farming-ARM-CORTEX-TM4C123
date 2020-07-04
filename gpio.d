@@ -1,0 +1,9 @@
+.\gpio.o: gpio.c
+.\gpio.o: Header.h
+.\gpio.o: E:\kiel\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\gpio.o: E:\kiel\ARM\CMSIS\Include\core_cm4.h
+.\gpio.o: E:\kiel\ARM\ARMCC\bin\..\include\stdint.h
+.\gpio.o: E:\kiel\ARM\CMSIS\Include\core_cmInstr.h
+.\gpio.o: E:\kiel\ARM\CMSIS\Include\core_cmFunc.h
+.\gpio.o: E:\kiel\ARM\CMSIS\Include\core_cm4_simd.h
+.\gpio.o: E:\kiel\ARM\Inc\TI\TM4C123\system_TM4C123.h
